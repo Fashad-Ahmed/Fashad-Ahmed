@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 
 ![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=shades-of-purple)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fashad-Ahmed&repo=github-readme-stats)](https://github.com/Fashad-Ahmed/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fashad-Ahmed)](https://github.com/Fashad-Ahmed/github-readme-stats)
 
 -->
