@@ -1,7 +1,7 @@
 ### Hi folks 👋
 ## Student of BS Computer Science.
 <!--
-**Fashad-Ahmed/Fashad-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fashad-Ahmed/Fashad-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Fashad-Ahmed>&theme=<onedark>" />  -->
 
-![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=yeblu)
+![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme="chartreuse-dark")
 
 -->
