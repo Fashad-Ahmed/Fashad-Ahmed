@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++ and React.
 - 📫 How to reach me: fashad.ahmed20@gmail.com or on https://www.instagram.com/fashadahmed_/
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Fashad-Ahmed>&theme=<onedark>" />  -->
 
-![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=chartreuse-dark)
+![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=nord)
 
 -->
