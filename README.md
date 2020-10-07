@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: fashad.ahmed20@gmail.com or on https://www.instagram.com/fashadahmed_/
 
 
-![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=dracula)
-![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=buefy)
-![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=vue-dark)
+
 ![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=shades-of-purple)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fashad-Ahmed&repo=github-readme-stats)](https://github.com/Fashad-Ahmed/github-readme-stats)
 
 -->
