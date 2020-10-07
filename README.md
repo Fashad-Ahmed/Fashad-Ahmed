@@ -11,5 +11,8 @@ Here are some ideas to get you started:
 
 
 ![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=dracula)
+![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=buefy)
+![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=vue-dark)
+![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=shades-of-purple)
 
 -->
