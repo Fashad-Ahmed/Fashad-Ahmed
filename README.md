@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Fashad-Ahmed>&theme=<onedark>" />  -->
 
-[![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed)](https://github.com/Fashad-Ahmed/github-readme-stats)
-![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true)
+![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=yeblu)
 
 -->
