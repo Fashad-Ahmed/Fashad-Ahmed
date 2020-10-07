@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C++ and React.
 - 📫 How to reach me: fashad.ahmed20@gmail.com or on  <a href="https://www.instagram.com/fashadahmed_/" class="button icon search">Instagram</a> 
 
-![](https://komarev.com/ghpvc/?username=Fashad-Ahmed&style=flat-square&color=purple)
+![](https://komarev.com/ghpvc/?username=Fashad-Ahmed&style=flat-square&color=bluevoilet)
 
 
 ![Fashad's github stats](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&theme=shades-of-purple)
