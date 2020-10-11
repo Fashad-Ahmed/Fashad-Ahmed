@@ -1,5 +1,5 @@
 # Hello folks 👋
-### I'm student of BS Computer Science ✨
+### I'm student of Undergrad Computer Science ✨
 <!--
 **Fashad-Ahmed/Fashad-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
