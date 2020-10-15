@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on Python and Javascript.
 - 🌱 I’m currently learning C++ and React.
 - 📫 How to reach me: fashad.ahmed20@gmail.com 
+<br/>
 ![](https://komarev.com/ghpvc/?username=Fashad-Ahmed&style=flat-square&color=blueviolet)
 
 
