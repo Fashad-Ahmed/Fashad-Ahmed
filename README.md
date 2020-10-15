@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on Python and Javascript.
 - 🌱 I’m currently learning C++ and React.
-- 📫 How to reach me: fashad.ahmed20@gmail.com or on  <a href="https://www.instagram.com/fashadahmed_/" class="button icon search">Instagram</a> 
-
+- 📫 How to reach me: fashad.ahmed20@gmail.com 
 ![](https://komarev.com/ghpvc/?username=Fashad-Ahmed&style=flat-square&color=blueviolet)
 
 
