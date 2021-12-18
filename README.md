@@ -14,8 +14,8 @@
 <!-- **Fashad-Ahmed/Fashad-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 
-- 🔭 I’m currently working on this page.I’m currently working on Web & Mobile Development. 
-- 🌱 I’m currently learning I'm currently learning Machine Learning & Deep Learning. 
+- 🔭 I’m currently working on Web & Mobile Development. 
+- 🌱 I'm currently learning Machine Learning & Deep Learning. 
 - 👯 I’m looking to collaborate on Web Dev., Data Engineering and Machine Learning based Projects. 
 - 💬 Ask me about We can talk about **Web** **Development** and **AI**, always love to hear and share :) 
 - 📫 How to reach me: fashad.ahmed20@gmail.com  
