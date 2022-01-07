@@ -1,6 +1,7 @@
 # Hello folks 👋
 ### I'm student of BS Computer Science ✨
 
+
 ![Banner](https://user-images.githubusercontent.com/64021315/146648933-d05e0f66-529f-4aea-8875-19f7cd73cc6b.png)
 
 ![image title](https://rushter.com/counter.svg)
@@ -13,6 +14,8 @@
 
 <!-- **Fashad-Ahmed/Fashad-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
+ 
+![giphy](https://user-images.githubusercontent.com/64021315/148564358-c4e6feeb-d88e-4c04-bc75-6defa2093b52.gif)
 
 - 🔭 I’m currently working on Web & Mobile Development. 
 - 🌱 I'm currently learning Machine Learning & Deep Learning. 
