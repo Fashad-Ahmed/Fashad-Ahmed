@@ -9,7 +9,7 @@
  Hi 👋 
 ======================================
 
-I am Full Stack Developer & CS Undergrad
+I am CS Undergrad & Full Stack Developer 
 --------------------
 
 🚀 I'm currently working on Web & Mobile Development.
