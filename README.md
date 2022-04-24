@@ -6,7 +6,7 @@
 
 <!-- **Fashad-Ahmed/Fashad-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
- Hi 👋 My name is Fashad Ahmed Siddique
+ Hi 👋 
 ======================================
 
 I am Full Stack Developer & CS Undergrad
