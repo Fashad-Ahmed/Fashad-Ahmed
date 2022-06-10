@@ -16,7 +16,7 @@ I am CS Undergrad & Full Stack Developer
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [fashad.ahmed20@gmail.com](mailto:fashad.ahmed20@gmail.com)
-* 🧠  I'm learning Machine Learning & Deep Learning
+* 🧠  I'm learning Deep Learning on weekend and Web Stuff in week days along with my college studies ;p
 * 🤝  I'm open to collaborating on Web Dev., Data Engineering & Machine Learning based Projects.
 * ⚡  Fun fact: I love to play and analyze Football, also a Big fan of History Documentaries.
 
