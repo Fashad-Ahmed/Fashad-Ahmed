@@ -9,10 +9,10 @@
  Hi 👋 
 ======================================
 
-I am CS Undergrad & Full Stack Developer 
+I am CS Undergrad & Full Stack Developer (Web & App)
 --------------------
 
-🚀 I'm currently working on Web & Mobile Development.
+🚀 I'm currently working on Mobile Development.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [fashad.ahmed20@gmail.com](mailto:fashad.ahmed20@gmail.com)
