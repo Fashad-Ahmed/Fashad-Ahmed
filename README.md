@@ -12,7 +12,7 @@
 I am CS Undergrad @ NEDUET
 --------------------
 
-🚀 I'm currently working on Mobile Development.
+🚀 I'm currently working on Hybrid Mobile Application Development.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [fashad.ahmed20@gmail.com](mailto:fashad.ahmed20@gmail.com)
