@@ -9,7 +9,7 @@
  Hi 👋 
 ======================================
 
-I am CS Undergrad @ NEDUET
+I am CS Undergrad & a Full Stack Developoer
 --------------------
 
 🚀 I'm currently working on Hybrid Mobile Application Development.
