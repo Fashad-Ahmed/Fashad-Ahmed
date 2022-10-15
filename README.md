@@ -14,8 +14,6 @@ I am CS Undergrad & a Full Stack Developoer
 
 🚀 I'm currently working on Hybrid Mobile Application Development.
 
-𝘐𝘵 𝘥𝘰𝘦𝘴 𝘯𝘰𝘵 𝘮𝘢𝘵𝘵𝘦𝘳 𝘩𝘰𝘸 𝘴𝘭𝘰𝘸𝘭𝘺 𝘺𝘰𝘶 𝘨𝘰 𝘴𝘰 𝘭𝘰𝘯𝘨 𝘢𝘴 𝘺𝘰𝘶 𝘥𝘰 𝘯𝘰𝘵 𝘴𝘵𝘰𝘱.
-
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [fashad.ahmed20@gmail.com](mailto:fashad.ahmed20@gmail.com)
 * 🧠  I'm learning Deep Learning on weekend.
