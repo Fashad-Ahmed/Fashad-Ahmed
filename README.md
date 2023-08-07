@@ -9,16 +9,16 @@
  Hi 👋 
 ======================================
 
-I am CS Undergrad & a Full Stack Developoer
+I am CS Undergrad & a Full Stack Web n App Developoer
 --------------------
 
-🚀 I'm currently working on Hybrid Mobile Application Development.
+🚀 I'm currently working on Web and Blockchain development alongside dealing with Machine Learning and GANs.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [fashad.ahmed20@gmail.com](mailto:fashad.ahmed20@gmail.com)
-* 🧠  I'm learning Deep Learning on weekend.
-* 🤝  I'm open to collaborating on Web Dev., Data Engineering & Machine Learning based Projects.
-* ⚡  Fun fact: I love to play and analyze Football, also a Big fan of History Documentaries.
+* 🧠  I'm learning Deep Learning on weekends and doing leetCode/Hackerrank.
+* 🤝  I'm open to collaborating on Web Dev., App Dev., Data Engineering & Machine Learning based Projects.
+* ⚡  Fun fact: I love to play and analyze Football, also a big fan of History Documentaries.
 
 <a href="https://www.twitter.com/FashadAhmed" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/FashadAhmed?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1c1917"
