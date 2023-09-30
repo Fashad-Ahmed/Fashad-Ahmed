@@ -9,7 +9,7 @@
  Hi 👋 
 ======================================
 
-I am CS Undergrad & a Full Stack Web and App Developer
+I am a Computer Science Fresh graduate & a Full Stack Web and App Developer
 --------------------
 
 🚀 I'm currently working on Web and Mobile application development.
