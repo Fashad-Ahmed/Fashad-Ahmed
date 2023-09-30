@@ -9,14 +9,14 @@
  Hi 👋 
 ======================================
 
-I am CS Undergrad & a Full Stack Web n App Developoer
+I am CS Undergrad & a Full Stack Web and App Developer
 --------------------
 
-🚀 I'm currently working on Web and Blockchain development alongside dealing with Machine Learning and GANs.
+🚀 I'm currently working on Web and Mobile application development.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [fashad.ahmed20@gmail.com](mailto:fashad.ahmed20@gmail.com)
-* 🧠  I'm learning Deep Learning on weekends and doing leetCode/Hackerrank.
+* 🧠  I'm learning cool stuff (Front-end/Back-end/CS Solids/ AI) on weekends and doing leetCode/Hackerrank.
 * 🤝  I'm open to collaborating on Web Dev., App Dev., Data Engineering & Machine Learning based Projects.
 * ⚡  Fun fact: I love to play and analyze Football, also a big fan of History Documentaries.
 
