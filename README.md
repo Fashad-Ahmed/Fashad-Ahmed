@@ -9,14 +9,14 @@
  Hi 👋 
 ======================================
 
-I am a Computer Science Fresh graduate & a Full Stack Web and App Developer
+I am an Experienced Full Stack Web and App Developer
 --------------------
 
-🚀 I'm currently working on Web and Mobile application development.
+🚀 I'm currently working on Full Stack Web and Mobile application development.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [fashad.ahmed20@gmail.com](mailto:fashad.ahmed20@gmail.com)
-* 🧠  I'm learning cool stuff (Front-end/Back-end/CS Solids/ AI) on weekends and doing leetCode/Hackerrank.
+* 🧠  I love to learn things, currently I am learning Spring Boot and Problem Solving Patters.
 * 🤝  I'm open to collaborating on Web Dev., App Dev., Data Engineering & Machine Learning based Projects.
 * ⚡  Fun fact: I love to play and analyze Football, also a big fan of History Documentaries.
 
