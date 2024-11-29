@@ -59,3 +59,6 @@ src="https://img.shields.io/twitter/follow/FashadAhmed?logo=twitter&style=for-th
 <a href="http://www.github.com/Fashad-Ahmed"><img src="https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="Fashad-Ahmed's GitHub stats" /></a>
 
 <a href="http://www.github.com/Fashad-Ahmed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fashad-Ahmed&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+<a href="https://app.daily.dev/fashadahmed"><img src="https://api.daily.dev/devcards/v2/f1lFCPNK2xK8OcI9xmONK.png?type=wide&r=1ho" width="652" alt="Fashad Ahmed's Dev Card"/></a>
