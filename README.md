@@ -9,7 +9,7 @@
  Hi 👋 
 ======================================
 
-I am a Full Stack Web and App Developer
+I am a Full Stack Web and Mobile Developer
 --------------------
 
 🚀 I'm currently working on Full Stack Web and Mobile application development.
