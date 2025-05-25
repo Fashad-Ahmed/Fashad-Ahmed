@@ -9,10 +9,10 @@
  Hi 👋 
 ======================================
 
-I am a Full Stack Web and Mobile Developer
+I am a Full Stack Web and Mobile Application Developer
 --------------------
 
-🚀 I'm currently working on Full Stack Web and Mobile application development.
+🚀 I'm currently working in a product-based company, primarily working on Web (FE) and working with LLMs on the side.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [fashad.ahmed20@gmail.com](mailto:fashad.ahmed20@gmail.com)
