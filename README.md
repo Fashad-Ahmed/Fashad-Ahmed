@@ -16,7 +16,7 @@ I am a Full Stack Web and Mobile Application Developer
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [fashad.ahmed20@gmail.com](mailto:fashad.ahmed20@gmail.com)
-* 🧠  I love to learn things, currently I am learning Django and exploring LLMs, RAG & Agents.
+* 🧠  I love to learn & build things, currently I am learning Django and exploring LLMs, RAG & Agents.
 * 🤝  I'm open to collaborating on Web Dev., App Dev., Data Engineering & Machine Learning based Projects.
 * ⚡  Fun fact: I love to play and analyze Football, also a big fan of History Documentaries.
 
