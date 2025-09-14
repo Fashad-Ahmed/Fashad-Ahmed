@@ -15,7 +15,8 @@ I am a Full Stack Web and Mobile Application Developer
 🚀 I'm currently working in a product-based company, primarily working on Web (FE) and working with LLMs on the side.
 Four years of engineering school has turned me into a nocturnal animal :')
 
-* 🌍  I'm based in Bologna, Italy.
+* 🌍  I'm living in Bologna, Italy.
+* 🎓  I'm pursuing Masters of Engineering in AI at Alma Mater Studiorum - Università di Bologna
 * ✉️  You can contact me at [fashad.ahmed20@gmail.com](mailto:fashad.ahmed20@gmail.com)
 * 🧠  I love to learn & build things, currently I am learning Django and exploring LLMs, RAG & Agents.
 * 🤝  I'm open to collaborating on Web Dev., App Dev., Data Engineering & Machine Learning based Projects.
