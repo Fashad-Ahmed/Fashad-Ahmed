@@ -12,8 +12,7 @@
 I am a Full Stack Web and Mobile Application Developer
 --------------------
 
-🚀 I'm currently working in a product-based company, primarily working on Web (FE) and working with LLMs on the side.
-Four years of engineering school has turned me into a nocturnal animal :')
+🚀 I'm currently working in an Ed Tech company, primarily working as a Full Stack Engineer and working with LLMs on the side.
 
 * 🌍  I'm living in Bologna, Italy.
 * 🎓  I'm pursuing Masters of Engineering in AI at Alma Mater Studiorum - Università di Bologna
