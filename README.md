@@ -16,7 +16,7 @@ I am a Full Stack AI Engineer & MSAI Student @ Unibo
 <img align="right" height="200" src="https://github.com/user-attachments/assets/5edc4118-0532-4545-bf53-311ce502fcfd"  />
 
 
-🚀 I'm currently working in an Ed Tech company Ed Tech company primarily working as a Full Stack AI Engineer, utilising Traditional Software Engineering, LLMs, RAGs and Vector DBs.
+🚀 I'm currently working in an Ed Tech company primarily working as a Full Stack AI Engineer, utilising Traditional Software Engineering, LLMs, RAGs and Vector DBs.
 
 
 * 🌍  I'm living in Bologna, Italy.
