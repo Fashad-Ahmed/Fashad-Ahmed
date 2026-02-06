@@ -44,7 +44,9 @@ I am a Full Stack AI Engineer & MSAI Student @ Unibo
 
 
 ###
-<a href="http://www.github.com/Fashad-Ahmed"><img src="https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="Fashad-Ahmed's GitHub stats" /></a>
+![](https://github-readme-stats.vercel.app/api?username=Fashad-Ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Fashad-Ahmed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fashad-Ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <a href="http://www.github.com/Fashad-Ahmed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fashad-Ahmed&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
