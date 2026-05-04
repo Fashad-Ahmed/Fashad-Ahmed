@@ -33,6 +33,13 @@ and Term Variants Clustering Task](https://apa.dipsco.unitn.it/evalita2026/9.pdf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
+  <img src="https://cdn.simpleicons.org/langchain" width="48" alt="LangChain"/>
+   <img src="https://cdn.simpleicons.org/langgraph" width="48" alt="LangGraph"/>
+      <img src="https://cdn.simpleicons.org/langflow" width="48" alt="LangFlow"/>
+
+  
+<img src="https://cdn.simpleicons.org/openaigym" width="48" alt="OpenAI"/>
+<img src="https://cdn.simpleicons.org/anthropic" width="48" alt="Anthropic"/>
 </p>
 
 **Frontend**  
