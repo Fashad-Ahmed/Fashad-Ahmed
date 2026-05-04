@@ -10,7 +10,8 @@ I build production-grade AI systems at the intersection of large language models
 - 🌍 &nbsp;Based in **Bologna, Italy**
 - 🎓 &nbsp;**MSc in Artificial Intelligence** — Alma Mater Studiorum, Università di Bologna
 - 💼 &nbsp;Experience across **MENA's largest tech platforms**, product-driven companies, and AI startups — most recently as a **Software Engineer at [Dubizzle](https://www.dubizzle.com)**, shipping full-stack features at scale and engineering a production **multi-agent AI system** using **LangGraph**
-- 🔬 &nbsp;**Co-author**, *TermNinjas at ATE-IT* — EVALITA 2026, NLP & Speech Tools for Italian
+- 🔬 &nbsp;**Co-author**, *[TermNinjas at ATE-IT:  Overview of the Term Extraction
+and Term Variants Clustering Task](https://apa.dipsco.unitn.it/evalita2026/9.pdf)* — EVALITA 2026, NLP & Speech Tools for Italian
 - 🔍 &nbsp;Open to roles in **AI Engineering**, **ML Engineering**, and **Full Stack AI**
 - 🤝 &nbsp;Interested in collaborating on NLP, Recommender Systems, RL, and Deep Learning
 - ✉️ &nbsp;Email: [fashad.ahmed20@gmail.com](mailto:fashad.ahmed20@gmail.com)
